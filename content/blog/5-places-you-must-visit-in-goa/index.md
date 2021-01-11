@@ -1,7 +1,7 @@
 ---
 title: 5 Places You Must Visit in Goa
-date: "2020-11-12T18:33:00.00Z"
-lastupdated: "2020-11-13T14:46:00.00Z"
+date: "2021-01-08T00:10:21.185Z"
+lastupdated: "2021-01-08T00:10:21.185Z"
 author: "Soumyadeep Dubey"
 description: ""
 categories: [Travel, Road Trip, Adventure, Goa, Beach, Places]
